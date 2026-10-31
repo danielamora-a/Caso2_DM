@@ -5,7 +5,7 @@ Aplicación del modelo de constelación de hechos a la base de datos ContosoReta
 
 **Autora:** Daniela Mora
 
-📥 **Descargar el archivo de Power BI (.pbix):** en la sección [Releases](https://github.com/danielamora-a/Caso2_DM/releases) de este repositorio. Pesa 422 MB porque incluye los datos importados, por eso no está junto a los demás archivos.
+**Descargar el archivo de Power BI (.pbix):** en la sección [Releases](https://github.com/danielamora-a/Caso2_DM/releases) de este repositorio. (Pesa 422 MB porque incluye los datos importados, por eso no está junto a los demás archivos).
 
 ![Dashboard: panorama del inventario](imagenes/dashboard-pagina1.png)
 
