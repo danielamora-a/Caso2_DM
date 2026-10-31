@@ -5,7 +5,7 @@ Aplicación del modelo de constelación de hechos a la base de datos ContosoReta
 
 **Autora:** Daniela Mora
 
-**Descargar el archivo de Power BI (.pbix):** en la sección [Releases](https://github.com/danielamora-a/Caso2_DM/releases) de este repositorio. (Pesa 422 MB porque incluye los datos importados, por eso no está junto a los demás archivos).
+📥 **[Descargar el archivo de Power BI (.pbix, 422 MB)](https://github.com/danielamora-a/Caso2_DM/releases/download/v1.0/Caso_2_DanielaMora.pbix)**: por su tamaño está guardado en la sección [Releases](https://github.com/danielamora-a/Caso2_DM/releases) del repositorio, no junto a los demás archivos.
 
 ![Dashboard: panorama del inventario](imagenes/dashboard-pagina1.png)
 
@@ -34,7 +34,7 @@ Tres tablas de hechos (FactSales, FactOnlineSales y FactInventory) que comparten
 | `Modelo_constelacion_drawio.pdf` | Diagrama del modelo de constelación |
 | `sql/exploracion_ContosoRetailDW.sql` | Consultas SQL utilizadas en la exploración |
 | `imagenes/` | Capturas del modelo y de las 3 páginas del dashboard |
-| *Releases* → `Caso_2_DanielaMora.pbix` | Archivo de Power BI con el modelo y el dashboard |
+| [`Caso_2_DanielaMora.pbix`](https://github.com/danielamora-a/Caso2_DM/releases/download/v1.0/Caso_2_DanielaMora.pbix) (en Releases) | Archivo de Power BI con el modelo y el dashboard |
 
 ## Principales hallazgos (2009)
 
